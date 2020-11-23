@@ -9021,6 +9021,11 @@ h1, h2, h3, h4, h5,
   border-bottom: #cdcbbe solid 1px;
   color: #666;
 }
+@media (min-width: 768px){
+  .order input {
+    width: 32%;
+  }
+}
 .plus {
   font-weight: 600;
 }
